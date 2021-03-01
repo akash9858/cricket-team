@@ -1,0 +1,27 @@
+.playerDiv{
+    display: inline-flex;
+}
+.display{
+    padding:10px;
+    border: 1px solid beige;
+    margin: 55px;
+    width: 380px;
+    height: 440px;
+    text-align: -webkit-center;
+}
+img{
+    width:40%;
+    border-radius:50%
+}
+.cardButton{
+    width:150px;
+    height:30px;
+    background-color: orange;
+    border: 1px solid rgb(128, 84, 4);
+    border-radius: 5px;
+    padding:5px;
+    cursor:pointer;
+}
+p{
+    font-size:16px;
+}
